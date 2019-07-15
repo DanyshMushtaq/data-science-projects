@@ -1,2 +1,2 @@
 # data-science-projects
-Solving practical problems for more hands on
+A list of problems solved using different algorithms
